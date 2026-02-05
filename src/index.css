@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/80 backdrop-blur-lg border border-white/20 shadow-xl;
+  }
+  
+  .weather-card {
+    @apply glass-card rounded-2xl p-6 transition-all duration-300 hover:shadow-2xl;
+  }
+  
+  .gradient-bg {
+    @apply bg-gradient-to-br from-sky-400 to-blue-600;
+  }
+}
