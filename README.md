@@ -33,7 +33,7 @@ Weather Icons: Dynamic SVG icons representing current conditions
 Feels Like Temperature: Perceived temperature based on humidity and wind
 
 
-Detailed Weather Metrics
+# Detailed Weather Metrics
 
 Humidity Levels: Percentage-based humidity readings
 
@@ -50,7 +50,7 @@ Dew Point: Temperature at which condensation occurs
 Sunrise & Sunset: Local times for solar events
 
 
-Extended Forecast
+# Extended Forecast
 
 5-Day / 3-Hour Forecast: Detailed future weather predictions
 
@@ -61,7 +61,7 @@ Hourly Breakdown: Temperature trends throughout the day
 Precipitation Probability: Chance of rain/snow
 
 
-Search & Location Features
+# Search & Location Features
 
 City Search: Global city database with autocomplete suggestions
 
@@ -75,7 +75,7 @@ Multiple Units: Toggle between metric and imperial systems
 
 # 🎨 User Interface & Experience
 
-Design Philosophy
+# Design Philosophy
 
 The application embraces a clean, minimalist aesthetic with smooth gradients and subtle animations. Each weather condition features distinct visual treatments that enhance the user experience:
 
@@ -90,7 +90,7 @@ Snowy: Crisp whites with gentle snowfall effects
 Stormy: Dramatic dark gradients with lightning accents
 
 
-3 Responsive Layout
+# 3 Responsive Layout
 The interface adapts seamlessly across all device sizes:
 
 Desktop (1024px+)
@@ -122,3 +122,24 @@ Bottom-anchored search
 Swipeable forecast cards
 
 Full-width metric displays
+
+
+# Output
+<img width="1894" height="908" alt="image" src="https://github.com/user-attachments/assets/26d0e0da-8a96-4f78-a0c5-95774c6a99a1" />
+<img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/6537dfc6-e253-44ed-9ca8-365e68656659" />
+<img width="1898" height="663" alt="image" src="https://github.com/user-attachments/assets/65f9dfd2-0639-474e-83c5-8b1e0708367a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
